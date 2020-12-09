@@ -1,4 +1,4 @@
-﻿unit easyon.device.sensehat;
+﻿unit easyon.node.device.sensehat;
 
 interface
 
